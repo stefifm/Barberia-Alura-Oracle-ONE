@@ -22,3 +22,6 @@ Proyecto Barbería Alura realizado durante los cursos de HTML5 y CSS3 del progra
 - Formulario
 - Tablas
 - Efectos CSS
+
+### Página
+https://stefifm.github.io/Barberia-Alura-Oracle-ONE/
